@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{1AFDCDF3-E44C-4DD0-81E4-50BA1C79C9D1}">
+	<children>
+		<child name="Iso_Speak_Desktop_Project" key="{77166344-C58B-4B2B-A97B-A5B4A9FB88E2}" path="Iso_Speak_Desktop_Project\Iso_Speak_Desktop_Project.mds" />
+	</children>
+	<testItems key="{F6690942-F2DD-4E29-8D3E-7BECEFCE96E0}">
+		<children>
+			<testItem key="{77166344-C58B-4B2B-A97B-A5B4A9FB88E2}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{47AD1DE3-2D88-4B66-89AA-F79D23D06E80}" />
+	<analysis key="{9A065559-88E7-463F-BEBB-014E9D53D0C1}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
